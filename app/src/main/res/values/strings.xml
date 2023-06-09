@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EletricCar_App</string>
+    <string name="preco_value">R$300.000,00</string>
+    <string name="title_bateria">Bateria</string>
+    <string name="title_preco">Preço</string>
+    <string name="bateria_value">300 kWh</string>
+    <string name="title_potencia">Potência</string>
+    <string name="title_recarga">Recarga</string>
+    <string name="potencia_value">542 cv</string>
+    <string name="recarga_value">25 min</string>
+    <string name="title_Favoritos">Favoritos</string>
+    <string name="title_carros">Carros</string>
+    <string name="title_eletriccar">Eletric Car</string>
+    <string name="title_preçokwh">Preço kWh</string>
+    <string name="title_kmpercorridos">Km Percorridos</string>
+    <string name="txt_pizza">Pizza</string>
+    <string name="txt_radiogroup">Selecione sua comida favorita:</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="stringvazia">//;</string>
+    <string name="lista_carros">lista carros</string>
+    <string name="resultado_calcular">Resultado:</string>
+    <string name="calcularautonomia">CalcularAutonomia</string>
+
+    <string-array name="array_cidades">
+        <item>Araraquara</item>
+        <item>SaoPaulo</item>
+        <item>Maceio</item>
+    </string-array>
+</resources>
